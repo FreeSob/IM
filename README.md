@@ -70,7 +70,7 @@
 1. **開發環境**  
    - Qt Creator 和 Visual Studio Code
 2. **程式語言**  
-   - C++（Qt Widgets） 或 Python（PySide2/PyQt5）或 javascript
+   - C++（Qt Widgets） 或 Python 或 javascript
 3. **AI 模型訓練與推理**  
    - Python (TensorFlow)
 4. **版本控制**  
