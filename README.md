@@ -17,6 +17,7 @@
 ## **專案背景與目標**
 ### **背景**  
 「你畫我猜」是基於圖像辨識的互動遊戲，靈感來源於 Google 的 Quick, Draw!。結合 Qt 平台與 AI 模型，開發一個可以進行即時圖像辨識的互動遊戲。
+
 ![image](https://github.com/user-attachments/assets/5c916ff0-a69d-47b3-97e0-5517a7675687)
 
 
